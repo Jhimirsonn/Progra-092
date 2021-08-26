@@ -1,0 +1,4 @@
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_Tienda\201025393_Tienda\obj\Debug\201025393_Tienda.vbproj.AssemblyReference.cache
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_Tienda\201025393_Tienda\obj\Debug\201314034_Tienda.exe
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_Tienda\201025393_Tienda\obj\Debug\201314034_Tienda.xml
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_Tienda\201025393_Tienda\obj\Debug\201314034_Tienda.pdb
