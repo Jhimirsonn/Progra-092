@@ -1,0 +1,24 @@
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.exe.config
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.xml
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbprojAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\_201025393_CINE.Form1.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\_201025393_CINE.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbproj.GenerateResource.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.xml
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\201025393\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.pdb
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.exe.config
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.exe
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.pdb
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\bin\Debug\201025393_CINE.xml
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbproj.AssemblyReference.cache
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\_201025393_CINE.Form1.resources
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\_201025393_CINE.Resources.resources
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbproj.GenerateResource.cache
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.exe
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.xml
+C:\Users\JHIMI LÓPEZ\Desktop\201025393_CINE\201025393_CINE\obj\Debug\201025393_CINE.pdb
